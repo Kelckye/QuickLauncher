@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "url": "https://github.com/Kelckye/QuickLauncher/releases/latest/download/QuickLauncher.exe",
-  "notes": "1. 修复浏览器登录丢失 2. 优化缩放卡顿 3. 新增缓存清理"
+  "notes": "1. 修复浏览器登录丢失 2. 修复添加背景图片后缩放卡顿 3. 新增缓存清理"
 }
