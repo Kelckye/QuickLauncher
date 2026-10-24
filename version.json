@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "3.0.0",
   "url": "https://github.com/Kelckye/QuickLauncher/releases/latest/download/QuickLauncher.exe",
-  "notes": "大更新版本前的测试更新，BUG请勿反馈"
+  "notes": "彻底重构了底层代码进行了更新"
 }
