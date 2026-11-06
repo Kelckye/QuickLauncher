@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
+  "version": "3.0.0",
   "url": "https://github.com/Kelckye/QuickLauncher/releases/latest/download/QuickLauncher.exe",
-  "notes": "彻底重构了底层代码进行了更新"
+  "notes": "版本大更新，重构了整个软件的UI以及添加了一个多功能播放器的功能，修复BUG若干"
 }
