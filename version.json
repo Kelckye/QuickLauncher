@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "url": "https://github.com/Kelckye/QuickLauncher/releases/latest/download/QuickLauncher.exe",
-  "notes": "v3.1.0将使用新架构来进行运行，请收到更新提示后立即更新！\n新增功能：\n1. 支持快捷键是否应用到全局/关闭/无法被占用\n2. 大幅优化启动速度"
+  "notes": "v3.1.0更新内容\n新增功能：\n1. 支持快捷键是否应用到全局/关闭/无法被占用\n2. 大幅优化启动速度\n\nv3.1.1更新内容\n1. 修复UI错位以及优化防多开\n2. 重构截图工具"
 }
